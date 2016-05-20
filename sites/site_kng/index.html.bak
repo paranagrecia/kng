@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+	<meta charset="UTF-8"/>
+	<title>KNG</title>
+	<link rel="stylesheet" type="text/css" href="css/estilo.css"/> 
+  	<link rel="stylesheet" href="css/normalize.css">  	
+  	<link rel="stylesheet" href="css/gallery.theme.css">
+  	<link rel="stylesheet" href="css/gallery.css">
+</head>
+
+<body>
+<div id="interface">
+	<header>
+		
+	</header>
+  
+	
+
+</div>
+
+</body>
+
+
+</html>
