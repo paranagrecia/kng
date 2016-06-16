@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>false</Controls>
+            <FontSize>20</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>projetoSlideKNG</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>louvers,glass_parallax,domino,slices,blast,blinds,flip</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>385</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/studio/</ImageTemplate>
+            <ImageTemplateName>Studio</ImageTemplateName>
+            <ImageWidth>518</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>false</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>C:/Users/Jairo/Documents/WOW Slider/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>C:/Users/Jairo/Documents/WOW Slider</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>0</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>93</SlideshowDelay>
+            <SlideshowDuration>19</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>true</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#ffffff</TemplateColor>
+            <TemplateFont>Simonetta</TemplateFont>
+            <TemplateName>studio</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/formatar.jpg</url>
+                <title>Formatação de Computadores e Notebooks</title>
+                <filesize>23335</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/linux.jpg</url>
+                <title>Instalação de Sistemas Operacionais Linux</title>
+                <filesize>28191</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/windows.jpg</url>
+                <title>Instalação de Sistemas Operacionais Windows</title>
+                <filesize>25646</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/office1.jpg</url>
+                <title>Instalação do Pacote Office</title>
+                <filesize>65221</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/programas.jpg</url>
+                <title>Instalção de Programas e Drivers</title>
+                <filesize>88086</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/antivirus.jpg</url>
+                <title>Instalação de Anti-vírus</title>
+                <filesize>50871</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/slide2.jpg</url>
+                <filesize>35227</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/backup.jpg</url>
+                <title>Backup de Arquivos</title>
+                <filesize>64077</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/remocaovirus.jpg</url>
+                <title>Remoção de Vírus</title>
+                <filesize>49979</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/remocao_soft.jpg</url>
+                <title>Remoção de programas indesejados</title>
+                <filesize>46148</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/desfragmentador.jpg</url>
+                <title>Desfragmentação de Disco</title>
+                <filesize>37790</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/slide1.jpg</url>
+                <filesize>84272</filesize>
+            </Image>
+            <Image>
+                <url>C:/Users/Jairo/Documents/tempvb/temp/slide3.jpg</url>
+                <title>slide3</title>
+                <filesize>35227</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
