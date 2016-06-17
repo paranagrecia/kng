@@ -1,0 +1,48 @@
+*{
+	margin:0;
+	padding: 0;
+	border: 0;
+}
+
+div#site{
+	background: #FFFFFF;
+	width: 960px;
+	height: 900px;
+	margin: auto;
+}
+
+div#header_site{
+	width: 960px;
+	height: 348px;
+	background-image: url("../img/header_background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin: auto;
+}
+
+div#conteudo{
+	width: 960px;
+	height: 540px;
+	background-image: url("../img/bodyDiv_background.jpg");
+}
+
+div#slide{
+	width: 518px;
+	height: 385px;
+	background: #00BFFF;
+	float: right;
+	margin-right: 40px;
+	margin-top: 30px;
+}
+
+div#rodape{
+	width: 960px;
+	height: 50px;
+	background: #696969;
+}
+
+body{
+	background-image: url("../img/body_background.jpg");
+	background-repeat:  repeat-x;
+	background-attachment: fixed;
+}
