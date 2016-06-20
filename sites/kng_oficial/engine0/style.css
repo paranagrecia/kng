@@ -10,7 +10,7 @@
 	width: 100%;
 	max-width: 518px;
 	max-height:385px;
-	margin:9px auto 9px;
+	margin:0px auto 9px;
 	z-index:90;
 	text-align:left; /* reset align=center */
 	font-size: 10px;
