@@ -35,6 +35,14 @@ div#slide{
 	margin-top: 30px;
 }
 
+div#contato{
+	width: 960px;
+	height: 100px;
+	background-color: rgba(175,238,238,.4);
+	position: absolute;
+	margin-top: 440px;
+}
+
 div#rodape{
 	width: 960px;
 	height: 50px;
