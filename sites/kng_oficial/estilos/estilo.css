@@ -43,6 +43,54 @@ div#contato{
 	margin-top: 440px;
 }
 
+img#skype{
+	margin-top: 15px;
+	margin-left: 222px;
+	position: absolute;
+}
+
+p#fonte_skype{
+	color: #00BFFF;
+	font-family: COURIER;
+	font-style: italic;
+	font-weight: bold;
+	margin-top: 70px;
+	margin-left: 186px;
+	position: absolute;
+}
+
+img#gmail{
+	margin-top: 15px;
+	margin-left: 456px;
+	position: absolute;
+}
+
+p#fonte_gmail{
+	color: #FF0000;
+	font-family: COURIER;
+	font-style: italic;
+	font-weight: bold;
+	margin-top: 70px;
+	margin-left: 366px;
+	position: absolute;
+}
+
+img#fone{
+	margin-top: 15px;
+	margin-left: 696px;
+	position: absolute;
+}
+
+p#fonte_fone{
+	color: #008000;
+	font-family: COURIER;
+	font-style: italic;
+	font-weight: bold;
+	margin-top: 70px;
+	margin-left: 666px;
+	position: absolute;
+}
+
 div#rodape{
 	width: 960px;
 	height: 50px;
