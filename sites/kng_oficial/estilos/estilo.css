@@ -20,6 +20,11 @@ div#header_site{
 	margin: auto;
 }
 
+img#logomedio{
+	margin-top: 60px;
+	margin-left: 50px;
+}
+
 div#conteudo{
 	width: 960px;
 	height: 540px;
@@ -95,6 +100,13 @@ div#rodape{
 	width: 960px;
 	height: 50px;
 	background: #696969;
+}
+
+p#copyR{
+	font-family: COURIER;
+	font-style: italic;
+	font-weight: bold;
+	text-align: center;
 }
 
 body{
