@@ -7,13 +7,13 @@
 div#site{
 	background: #FFFFFF;
 	width: 960px;
-	height: 900px;
+	height: 793px;
 	margin: auto;
 }
 
 div#header_site{
 	width: 960px;
-	height: 348px;
+	height: 241px;
 	background-image: url("../img/header_background.jpg");
 	background-repeat: no-repeat;
 	background-size: 100%;
